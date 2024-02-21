@@ -9,7 +9,7 @@
 | <div align="center">Статус</div> | <div align="center">Этап</div> | <div align="center">Результат</div> |
 | :---------------- | :------------ | :-------------------------------------------------------------------------------------------------------- |
 | __Done__ | Реализация скрапера контента с сайта RFI и анализ данныx | [![](https://img.shields.io/badge/parsing_and_EDA.ipynb%20-4285F4?style=for-the-badge&&logoColor=white&color=crimson)](https://github.com/ErmakovaAna/rfi-news-bot/blob/main/parsing_and_EDA.ipynb) |
-| __To do__ | Решение задачи классификации текстов новостей по тематическим разделам |  |
+| __To do__ | Решение задачи классификации текстов новостей по темам |  |
 | __To do__ | Создание телеграм-бота | |
 
 ---
